@@ -1,0 +1,21 @@
+h1{
+	text-align: center;
+	color: #0054BF;
+	font-family: Arial;
+	padding-bottom: 50px;
+}
+
+table{
+	margin: auto;
+	width: 500px;
+	height: 500px;
+}
+.vertical{
+	border-left: solid black 1px;
+	border-right: solid black 1px;
+}
+
+.horizontal{
+	border-top: solid black 1px;
+	border-bottom: solid black 1px;
+}
