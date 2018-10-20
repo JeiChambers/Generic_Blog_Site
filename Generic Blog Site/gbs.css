@@ -1,0 +1,34 @@
+body{
+	border: solid gray 20px;
+	padding: 20px;
+	width: 700px;
+	margin: 20px auto;
+	font-family: slabo lato;
+}
+ 
+#date{
+	font-family: slabo;
+	font-size: 24px;
+}
+
+h2{
+	font-family: lato;
+	font-size: 14px;
+	color: #33C5F8;
+}
+
+h3{
+	font-family: lato;
+	font-size: 14px;
+	color: #33C5F8;
+}
+
+h4{
+	font-family: slabo;
+	font-size: 24px;
+}
+
+.quote{
+	border-left: solid rgb(00 124, 125) 3px;
+	padding: 5px;
+}
