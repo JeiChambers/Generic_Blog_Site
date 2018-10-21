@@ -5,21 +5,10 @@ body{
 	margin: 20px auto;
 	font-family: slabo lato;
 }
- 
-#date{
-	font-family: slabo;
-	font-size: 24px;
-}
 
-h2{
+.posting{
 	font-family: lato;
-	font-size: 14px;
-	color: #33C5F8;
-}
-
-h3{
-	font-family: lato;
-	font-size: 14px;
+	font-size: 18px;
 	color: #33C5F8;
 }
 
@@ -29,6 +18,12 @@ h4{
 }
 
 .quote{
-	border-left: solid rgb(00 124, 125) 3px;
+	border-left: solid gray  3px;
 	padding: 5px;
+}
+
+.date{
+	letter-spacing: 2 rem;
+	font-size: 18px;
+	font-family: slabo; 
 }
